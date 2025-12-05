@@ -1,4 +1,7 @@
-# poll
+# polling
+
+<img width="1024" height="1536" alt="polling" src="https://github.com/user-attachments/assets/4f640043-3725-4d58-b4ba-d3f2c5260ba0" />
+
 
 The poll mechanism is a Linux kernel mechanism for I/O event notification. Its
 function is to monitor multiplue file descriptors to see I/O is possible on
@@ -69,4 +72,3 @@ polling ...
 
 ---
 
-### ¶ The end
