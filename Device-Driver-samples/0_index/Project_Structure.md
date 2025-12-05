@@ -44,17 +44,4 @@ export PATH="$PATH:$LDD_ROOT/bin"
 
 Append the line above in your shell's `rc` file.
 
-# Make necessary directories
 
-```
-mkdir $LDD_ROOT/{bin,nfs_dir}
-```
-
-# Clone this repo
-
-```
-cd $LDD_ROOT/nfs_dir
-git clone https://github.com/d0u9/Linux-Device-Driver.git
-```
-
-# ¶ The end
