@@ -34,3 +34,24 @@ This repository contains a complete set of Linux device driver examples designed
 - Comprehensive documentation
 
 ## 📁 Project Structure
+
+
+
+
+
+
+## 🔧 Prerequisites
+
+### System Requirements
+- **Linux Distribution**: Ubuntu 18.04+, Fedora, CentOS, or any modern Linux distro
+- **Kernel Headers**: Must match your running kernel version
+- **GCC**: GNU Compiler Collection (version 7.0+ recommended)
+- **Make**: Build automation tool
+- **Root Access**: Required for loading/unloading modules
+
+### Package Installation
+
+#### Ubuntu/Debian
+```bash
+sudo apt-get update
+sudo apt-get install build-essential linux-headers-$(uname -r)
