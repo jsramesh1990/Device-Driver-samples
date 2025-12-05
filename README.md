@@ -35,7 +35,10 @@ This repository contains a complete set of Linux device driver examples designed
 
 ## 📁 Project Structure
 
-![Uploading dd.png…]()
+<img width="1024" height="1536" alt="dd" src="https://github.com/user-attachments/assets/1537cdf0-5604-45d9-8f8c-da6a0ee193b0" />
+
+
+
 
 
 
